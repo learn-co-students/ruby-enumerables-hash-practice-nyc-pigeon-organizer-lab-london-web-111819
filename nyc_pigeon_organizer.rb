@@ -1,3 +1,9 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  all_name = []
+  category = []
+  sub_categoy = []
+  
+  data.each_pair{ |pair| p pair}
+  array.reduce({}) do |memo , (category,sub_categoy,all_name)
+   
 end
